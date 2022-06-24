@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working with Vaidam Health
-- 🌱 I’m currently learning Node.js
+- 🌱 My Bucket : Laravel, PHP, Solr, Redis, AWS.
 - 👯 I’m looking to collaborate on open source projects based on node.js
 - 📫 How to reach me on linkedIn : https://www.linkedin.com/in/vishwakirtisharma/
 - 😄 Call me : vishwa
